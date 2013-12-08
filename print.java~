@@ -1,0 +1,7 @@
+public class print{
+  public static void main( args [] ){
+   int a= 8;
+   System.out.println (a);
+  }
+  
+}

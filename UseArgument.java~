@@ -1,0 +1,6 @@
+public class UseArgument{
+  public static void main (string[] args0{
+    system.out.print("hello");
+    system.out.print(args[0]);
+  }
+                           }
